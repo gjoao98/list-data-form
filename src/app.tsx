@@ -67,7 +67,7 @@ export function App() {
     <div className="py-10 space-y-8">
       <div>
         <Header />
-        <Tabs />
+        {/* <Tabs /> */}
       </div>
       <main className="max-w-6xl mx-auto space-y-5">
         <div className='flex items-center gap-3'>
@@ -108,10 +108,10 @@ export function App() {
             />
           </Input>
 
-          <Button>
+          {/* <Button>
             <FileDown className='size-3' />
             Export
-          </Button>
+          </Button> */}
         </div>
 
         <Table>
