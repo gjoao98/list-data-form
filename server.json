@@ -1,754 +1,916 @@
 {
-    "tags": [
-        {
-            "title": "React",
-            "slug": "react",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "Angular",
-            "slug": "angular",
-            "amountOfVideos": 287
-        },
-        {
-            "title": "Vue.js",
-            "slug": "vuejs",
-            "amountOfVideos": 195
-        },
-        {
-            "title": "Python",
-            "slug": "python",
-            "amountOfVideos": 403
-        },
-        {
-            "title": "Java",
-            "slug": "java",
-            "amountOfVideos": 609
-        },
-        {
-            "title": "JavaScript",
-            "slug": "javascript",
-            "amountOfVideos": 528
-        },
-        {
-            "title": "HTML",
-            "slug": "html",
-            "amountOfVideos": 385
-        },
-        {
-            "title": "CSS",
-            "slug": "css",
-            "amountOfVideos": 271
-        },
-        {
-            "title": "Machine Learning",
-            "slug": "machine-learning",
-            "amountOfVideos": 194
-        },
-        {
-            "title": "Deep Learning",
-            "slug": "deep-learning",
-            "amountOfVideos": 163
-        },
-        {
-            "title": "Data Science",
-            "slug": "data-science",
-            "amountOfVideos": 218
-        },
-        {
-            "title": "Node.js",
-            "slug": "nodejs",
-            "amountOfVideos": 356
-        },
-        {
-            "title": "MongoDB",
-            "slug": "mongodb",
-            "amountOfVideos": 132
-        },
-        {
-            "title": "SQL",
-            "slug": "sql",
-            "amountOfVideos": 278
-        },
-        {
-            "title": "Django",
-            "slug": "django",
-            "amountOfVideos": 175
-        },
-        {
-            "title": "Flask",
-            "slug": "flask",
-            "amountOfVideos": 87
-        },
-        {
-            "title": "Ruby on Rails",
-            "slug": "ruby-on-rails",
-            "amountOfVideos": 116
-        },
-        {
-            "title": "React Native",
-            "slug": "react-native",
-            "amountOfVideos": 211
-        },
-        {
-            "title": "Swift",
-            "slug": "swift",
-            "amountOfVideos": 193
-        },
-        {
-            "title": "Kotlin",
-            "slug": "kotlin",
-            "amountOfVideos": 132
-        },
-        {
-            "title": "TensorFlow",
-            "slug": "tensorflow",
-            "amountOfVideos": 198
-        },
-        {
-            "title": "PyTorch",
-            "slug": "pytorch",
-            "amountOfVideos": 141
-        },
-        {
-            "title": "Unity",
-            "slug": "unity",
-            "amountOfVideos": 287
-        },
-        {
-            "title": "Unreal Engine",
-            "slug": "unreal-engine",
-            "amountOfVideos": 224
-        },
-        {
-            "title": "Game Development",
-            "slug": "game-development",
-            "amountOfVideos": 178
-        },
-        {
-            "title": "iOS Development",
-            "slug": "ios-development",
-            "amountOfVideos": 156
-        },
-        {
-            "title": "Android Development",
-            "slug": "android-development",
-            "amountOfVideos": 201
-        },
-        {
-            "title": "Web Development",
-            "slug": "web-development",
-            "amountOfVideos": 329
-        },
-        {
-            "title": "Frontend Development",
-            "slug": "frontend-development",
-            "amountOfVideos": 256
-        },
-        {
-            "title": "Backend Development",
-            "slug": "backend-development",
-            "amountOfVideos": 187
-        },
-        {
-            "title": "Full Stack Development",
-            "slug": "full-stack-development",
-            "amountOfVideos": 209
-        },
-        {
-            "title": "API Development",
-            "slug": "api-development",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "RESTful API",
-            "slug": "restful-api",
-            "amountOfVideos": 103
-        },
-        {
-            "title": "GraphQL",
-            "slug": "graphql",
-            "amountOfVideos": 117
-        },
-        {
-            "title": "Microservices",
-            "slug": "microservices",
-            "amountOfVideos": 121
-        },
-        {
-            "title": "Docker",
-            "slug": "docker",
-            "amountOfVideos": 176
-        },
-        {
-            "title": "Kubernetes",
-            "slug": "kubernetes",
-            "amountOfVideos": 169
-        },
-        {
-            "title": "CI-CD",
-            "slug": "ci-cd",
-            "amountOfVideos": 87
-        },
-        {
-            "title": "DevOps",
-            "slug": "devops",
-            "amountOfVideos": 209
-        },
-        {
-            "title": "Git",
-            "slug": "git",
-            "amountOfVideos": 232
-          },
-          {
-            "title": "GitHub",
-            "slug": "github",
-            "amountOfVideos": 198
-          },
-          {
-            "title": "Bitbucket",
-            "slug": "bitbucket",
-            "amountOfVideos": 82
-          },
-          {
-            "title": "Agile",
-            "slug": "agile",
-            "amountOfVideos": 149
-          },
-          {
-            "title": "Scrum",
-            "slug": "scrum",
-            "amountOfVideos": 104
-          },
-          {
-            "title": "Kanban",
-            "slug": "kanban",
-            "amountOfVideos": 87
-          },
-          {
-            "title": "Product Management",
-            "slug": "product-management",
-            "amountOfVideos": 156
-          },
-          {
-            "title": "UI-UX Design",
-            "slug": "ui-ux-design",
-            "amountOfVideos": 175
-          },
-          {
-            "title": "Graphic Design",
-            "slug": "graphic-design",
-            "amountOfVideos": 132
-          },
-          {
-            "title": "Adobe Photoshop",
-            "slug": "adobe-photoshop",
-            "amountOfVideos": 87
-          },
-          {
-            "title": "Adobe Illustrator",
-            "slug": "adobe-illustrator",
-            "amountOfVideos": 92
-          },
-          {
-            "title": "Figma",
-            "slug": "figma",
-            "amountOfVideos": 109
-          },
-          {
-            "title": "Sketch",
-            "slug": "sketch",
-            "amountOfVideos": 95
-          },
-          {
-            "title": "Wireframing",
-            "slug": "wireframing",
-            "amountOfVideos": 73
-          },
-          {
-            "title": "Prototyping",
-            "slug": "prototyping",
-            "amountOfVideos": 82
-          },
-          {
-            "title": "User Testing",
-            "slug": "user-testing",
-            "amountOfVideos": 69
-          },
-          {
-            "title": "UX Research",
-            "slug": "ux-research",
-            "amountOfVideos": 114
-          },
-          {
-            "title": "Typography",
-            "slug": "typography",
-            "amountOfVideos": 68
-          },
-          {
-            "title": "Color Theory",
-            "slug": "color-theory",
-            "amountOfVideos": 56
-          },
-          {
-            "title": "Web Design",
-            "slug": "web-design",
-            "amountOfVideos": 213
-          },
-          {
-            "title": "Mobile App Design",
-            "slug": "mobile-app-design",
-            "amountOfVideos": 157
-          },
-          {
-            "title": "Responsive Design",
-            "slug": "responsive-design",
-            "amountOfVideos": 132
-          },
-          {
-            "title": "Design Thinking",
-            "slug": "design-thinking",
-            "amountOfVideos": 98
-          },
-          {
-            "title": "UI Patterns",
-            "slug": "ui-patterns",
-            "amountOfVideos": 71
-          },
-          {
-            "title": "Interaction Design",
-            "slug": "interaction-design",
-            "amountOfVideos": 124
-          },
-          {
-            "title": "Motion Design",
-            "slug": "motion-design",
-            "amountOfVideos": 86
-          },
-          {
-            "title": "Game Design",
-            "slug": "game-design",
-            "amountOfVideos": 143
-          },
-          {
-            "title": "VR Design",
-            "slug": "vr-design",
-            "amountOfVideos": 79
-          },
-          {
-            "title": "AR Design",
-            "slug": "ar-design",
-            "amountOfVideos": 62
-          },
-          {
-            "title": "Design Systems",
-            "slug": "design-systems",
-            "amountOfVideos": 109
-          },
-          {
-            "title": "Illustration",
-            "slug": "illustration",
-            "amountOfVideos": 137
-          },
-          {
-            "title": "Character Design",
-            "slug": "character-design",
-            "amountOfVideos": 95
-          },
-          {
-            "title": "Digital Painting",
-            "slug": "digital-painting",
-            "amountOfVideos": 73
-          },
-          {
-            "title": "Storyboarding",
-            "slug": "storyboarding",
-            "amountOfVideos": 62
-          },
-          {
-            "title": "Comic Art",
-            "slug": "comic-art",
-            "amountOfVideos": 68
-          },
-          {
-            "title": "Concept Art",
-            "slug": "concept-art",
-            "amountOfVideos": 77
-          },
-          {
-            "title": "Pixel Art",
-            "slug": "pixel-art",
-            "amountOfVideos": 53
-          },
-          {
-            "title": "3D Modeling",
-            "slug": "3d-modeling",
-            "amountOfVideos": 123
-          },
-          {
-            "title": "Texturing",
-            "slug": "texturing",
-            "amountOfVideos": 88
-          },
-          {
-            "title": "Rigging",
-            "slug": "rigging",
-            "amountOfVideos": 65
-          },
-          {
-            "title": "Animation",
-            "slug": "animation",
-            "amountOfVideos": 135
-          },
-          {
-            "title": "VFX",
-            "slug": "vfx",
-            "amountOfVideos": 94
-          },
-          {
-            "title": "Game Art",
-            "slug": "game-art",
-            "amountOfVideos": 108
-          },
-          {
-            "title": "Motion Graphics",
-            "slug": "motion-graphics",
-            "amountOfVideos": 112
-          },
-          {
-            "title": "Typography",
-            "slug": "typography",
-            "amountOfVideos": 84
-          },
-          {
-            "title": "Layout Design",
-            "slug": "layout-design",
-            "amountOfVideos": 73
-          },
-          {
-            "title": "Publication Design",
-            "slug": "publication-design",
-            "amountOfVideos": 61
-          },
-          {
-            "title": "Packaging Design",
-            "slug": "packaging-design",
-            "amountOfVideos": 66
-          },
-          {
-            "title": "Logo Design",
-            "slug": "logo-design",
-            "amountOfVideos": 97
-          },
-          {
-            "title": "Branding",
-            "slug": "branding",
-            "amountOfVideos": 112
-          },
-          {
-            "title": "Corporate Identity",
-            "slug": "corporate-identity",
-            "amountOfVideos": 75
-          },
-          {
-            "title": "Print Design",
-            "slug": "print-design",
-            "amountOfVideos": 83
-          },
-          {
-            "title": "Digital Design",
-            "slug": "digital-design",
-            "amountOfVideos": 94
-          },
-          {
-            "title": "User Interface Design",
-            "slug": "user-interface-design",
-            "amountOfVideos": 123
-          },
-          {
-            "title": "User Experience Design",
-            "slug": "user-experience-design",
-            "amountOfVideos": 144
-          },
-          {
-            "title": "Service Design",
-            "slug": "service-design",
-            "amountOfVideos": 79
-          },
-          {
-            "title": "Design Research",
-            "slug": "design-research",
-            "amountOfVideos": 64
-          },
-          {
-            "title": "Design Strategy",
-            "slug": "design-strategy",
-            "amountOfVideos": 72
-          },
-          {
-            "title": "Design Leadership",
-            "slug": "design-leadership",
-            "amountOfVideos": 63
-          },
-          {
-            "title": "Design Management",
-            "slug": "design-management",
-            "amountOfVideos": 68
-          },
-          {
-            "title": "Design Ethics",
-            "slug": "design-ethics",
-            "amountOfVideos": 57
-          },
-          {
-            "title": "Human-Centered Design",
-            "slug": "human-centered-design",
-            "amountOfVideos": 93
-          },
-          {
-            "title": "Inclusive Design",
-            "slug": "inclusive-design",
-            "amountOfVideos": 66
-          },
-          {
-            "title": "Design Tools",
-            "slug": "design-tools",
-            "amountOfVideos": 78
-          },
-          {
-            "title": "Design Workflow",
-            "slug": "design-workflow",
-            "amountOfVideos": 82
-          },
-          {
-            "title": "Design Collaboration",
-            "slug": "design-collaboration",
-            "amountOfVideos": 68
-          },
-          {
-            "title": "Design Thinking",
-            "slug": "design-thinking",
-            "amountOfVideos": 76
-          },
-          {
-            "title": "Design Systems",
-            "slug": "design-systems",
-            "amountOfVideos": 85
-          },
-          {
-            "title": "Design Critique",
-            "slug": "design-critique",
-            "amountOfVideos": 53
-          },
-          {
-            "title": "Design Education",
-            "slug": "design-education",
-            "amountOfVideos": 66
-          },
-          {
-            "title": "Design Career",
-            "slug": "design-career",
-            "amountOfVideos": 78
-          },
-          {
-            "title": "Design Portfolio",
-            "slug": "design-portfolio",
-            "amountOfVideos": 64
-          },
-          {
-            "title": "Design Community",
-            "slug": "design-community",
-            "amountOfVideos": 79
-          },
-          {
-            "title": "Design Trends",
-            "slug": "design-trends",
-            "amountOfVideos": 72
-          },
-          {
-            "title": "Design Events",
-            "slug": "design-events",
-            "amountOfVideos": 58
-          },
-          {
-            "title": "Design News",
-            "slug": "design-news",
-            "amountOfVideos": 63
-          },
-          {
-            "title": "Design Podcasts",
-            "slug": "design-podcasts",
-            "amountOfVideos": 54
-          },
-          {
-            "title": "Design Blogs",
-            "slug": "design-blogs",
-            "amountOfVideos": 49
-          },
-          {
-            "title": "Design Books",
-            "slug": "design-books",
-            "amountOfVideos": 62
-          },
-          {
-            "title": "Design Magazines",
-            "slug": "design-magazines",
-            "amountOfVideos": 51
-          },
-          {
-            "title": "Design Websites",
-            "slug": "design-websites",
-            "amountOfVideos": 46
-          },
-          {
-            "title": "Design Resources",
-            "slug": "design-resources",
-            "amountOfVideos": 57
-          },
-          {
-            "title": "Design Quotes",
-            "slug": "design-quotes",
-            "amountOfVideos": 45
-          },
-          {
-            "title": "Design Tools",
-            "slug": "design-tools",
-            "amountOfVideos": 59
-          },
-          {
-            "title": "Design Software",
-            "slug": "design-software",
-            "amountOfVideos": 68
-          },
-          {
-            "title": "Design Kits",
-            "slug": "design-kits",
-            "amountOfVideos": 54
-          },
-          {
-            "title": "Design Templates",
-            "slug": "design-templates",
-            "amountOfVideos": 63
-          },
-          {
-            "title": "Design Assets",
-            "slug": "design-assets",
-            "amountOfVideos": 58
-          },
-          {
-            "title": "Design Icons",
-            "slug": "design-icons",
-            "amountOfVideos": 49
-          },
-          {
-            "title": "Design Fonts",
-            "slug": "design-fonts",
-            "amountOfVideos": 53
-          },
-          {
-            "title": "Design Illustrations",
-            "slug": "design-illustrations",
-            "amountOfVideos": 61
-          },
-          {
-            "title": "Design Mockups",
-            "slug": "design-mockups",
-            "amountOfVideos": 56
-          },
-          {
-            "title": "Design Patterns",
-            "slug": "design-patterns",
-            "amountOfVideos": 47
-          },
-          {
-            "title": "Design Tutorials",
-            "slug": "design-tutorials",
-            "amountOfVideos": 55
-          },
-          {
-            "title": "Design Courses",
-            "slug": "design-courses",
-            "amountOfVideos": 59
-          },
-          {
-            "title": "Design Certifications",
-            "slug": "design-certifications",
-            "amountOfVideos": 51
-          },
-          {
-            "title": "Design Degrees",
-            "slug": "design-degrees",
-            "amountOfVideos": 47
-          },
-          {
-            "title": "Design Bootcamps",
-            "slug": "design-bootcamps",
-            "amountOfVideos": 53
-          },
-          {
-            "title": "Design Schools",
-            "slug": "design-schools",
-            "amountOfVideos": 45
-          },
-          {
-            "title": "Design Workshops",
-            "slug": "design-workshops",
-            "amountOfVideos": 50
-          },
-          {
-            "title": "Design Conferences",
-            "slug": "design-conferences",
-            "amountOfVideos": 58
-          },
-          {
-            "title": "Design Events",
-            "slug": "design-events",
-            "amountOfVideos": 54
-          },
-          {
-            "title": "Design Exhibitions",
-            "slug": "design-exhibitions",
-            "amountOfVideos": 46
-          },
-          {
-            "title": "Design Competitions",
-            "slug": "design-competitions",
-            "amountOfVideos": 52
-          },
-          {
-            "title": "Design Awards",
-            "slug": "design-awards",
-            "amountOfVideos": 48
-          },
-          {
-            "title": "Design Festivals",
-            "slug": "design-festivals",
-            "amountOfVideos": 49
-          },
-          {
-            "title": "Design Hackathons",
-            "slug": "design-hackathons",
-            "amountOfVideos": 45
-          },
-          {
-            "title": "Design Meetups",
-            "slug": "design-meetups",
-            "amountOfVideos": 51
-          },
-          {
-            "title": "Design Retreats",
-            "slug": "design-retreats",
-            "amountOfVideos": 47
-          },
-          {
-            "title": "Flask",
-            "slug": "flask",
-            "amountOfVideos": 87
-          },
-          {
-            "title": "Ruby on Rails",
-            "slug": "ruby-on-rails",
-            "amountOfVideos": 116
-          }
-    ]
+  "tags": [
+    {
+      "title": "React",
+      "slug": "react",
+      "amountOfVideos": 142,
+      "id": "cec7"
+    },
+    {
+      "title": "Angular",
+      "slug": "angular",
+      "amountOfVideos": 287,
+      "id": "d919"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "vuejs",
+      "amountOfVideos": 195,
+      "id": "65c3"
+    },
+    {
+      "title": "Python",
+      "slug": "python",
+      "amountOfVideos": 403,
+      "id": "59de"
+    },
+    {
+      "title": "Java",
+      "slug": "java",
+      "amountOfVideos": 609,
+      "id": "8cd0"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "javascript",
+      "amountOfVideos": 528,
+      "id": "688d"
+    },
+    {
+      "title": "HTML",
+      "slug": "html",
+      "amountOfVideos": 385,
+      "id": "75f4"
+    },
+    {
+      "title": "CSS",
+      "slug": "css",
+      "amountOfVideos": 271,
+      "id": "ae44"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "machine-learning",
+      "amountOfVideos": 194,
+      "id": "3082"
+    },
+    {
+      "title": "Deep Learning",
+      "slug": "deep-learning",
+      "amountOfVideos": 163,
+      "id": "1040"
+    },
+    {
+      "title": "Data Science",
+      "slug": "data-science",
+      "amountOfVideos": 218,
+      "id": "b848"
+    },
+    {
+      "title": "Node.js",
+      "slug": "nodejs",
+      "amountOfVideos": 356,
+      "id": "e7bb"
+    },
+    {
+      "title": "MongoDB",
+      "slug": "mongodb",
+      "amountOfVideos": 132,
+      "id": "5756"
+    },
+    {
+      "title": "SQL",
+      "slug": "sql",
+      "amountOfVideos": 278,
+      "id": "1f49"
+    },
+    {
+      "title": "Django",
+      "slug": "django",
+      "amountOfVideos": 175,
+      "id": "cb78"
+    },
+    {
+      "title": "Flask",
+      "slug": "flask",
+      "amountOfVideos": 87,
+      "id": "441b"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "ruby-on-rails",
+      "amountOfVideos": 116,
+      "id": "c830"
+    },
+    {
+      "title": "React Native",
+      "slug": "react-native",
+      "amountOfVideos": 211,
+      "id": "660a"
+    },
+    {
+      "title": "Swift",
+      "slug": "swift",
+      "amountOfVideos": 193,
+      "id": "c439"
+    },
+    {
+      "title": "Kotlin",
+      "slug": "kotlin",
+      "amountOfVideos": 132,
+      "id": "10ba"
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "tensorflow",
+      "amountOfVideos": 198,
+      "id": "83ec"
+    },
+    {
+      "title": "PyTorch",
+      "slug": "pytorch",
+      "amountOfVideos": 141,
+      "id": "0bcd"
+    },
+    {
+      "title": "Unity",
+      "slug": "unity",
+      "amountOfVideos": 287,
+      "id": "667e"
+    },
+    {
+      "title": "Unreal Engine",
+      "slug": "unreal-engine",
+      "amountOfVideos": 224,
+      "id": "306e"
+    },
+    {
+      "title": "Game Development",
+      "slug": "game-development",
+      "amountOfVideos": 178,
+      "id": "4f9b"
+    },
+    {
+      "title": "iOS Development",
+      "slug": "ios-development",
+      "amountOfVideos": 156,
+      "id": "ad4b"
+    },
+    {
+      "title": "Android Development",
+      "slug": "android-development",
+      "amountOfVideos": 201,
+      "id": "d37b"
+    },
+    {
+      "title": "Web Development",
+      "slug": "web-development",
+      "amountOfVideos": 329,
+      "id": "221a"
+    },
+    {
+      "title": "Frontend Development",
+      "slug": "frontend-development",
+      "amountOfVideos": 256,
+      "id": "1f97"
+    },
+    {
+      "title": "Backend Development",
+      "slug": "backend-development",
+      "amountOfVideos": 187,
+      "id": "b09f"
+    },
+    {
+      "title": "Full Stack Development",
+      "slug": "full-stack-development",
+      "amountOfVideos": 209,
+      "id": "c86d"
+    },
+    {
+      "title": "API Development",
+      "slug": "api-development",
+      "amountOfVideos": 142,
+      "id": "8765"
+    },
+    {
+      "title": "RESTful API",
+      "slug": "restful-api",
+      "amountOfVideos": 103,
+      "id": "0fc0"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "graphql",
+      "amountOfVideos": 117,
+      "id": "edb8"
+    },
+    {
+      "title": "Microservices",
+      "slug": "microservices",
+      "amountOfVideos": 121,
+      "id": "e3eb"
+    },
+    {
+      "title": "Docker",
+      "slug": "docker",
+      "amountOfVideos": 176,
+      "id": "cf6c"
+    },
+    {
+      "title": "Kubernetes",
+      "slug": "kubernetes",
+      "amountOfVideos": 169,
+      "id": "0ed4"
+    },
+    {
+      "title": "CI-CD",
+      "slug": "ci-cd",
+      "amountOfVideos": 87,
+      "id": "19cd"
+    },
+    {
+      "title": "DevOps",
+      "slug": "devops",
+      "amountOfVideos": 209,
+      "id": "b581"
+    },
+    {
+      "title": "Git",
+      "slug": "git",
+      "amountOfVideos": 232,
+      "id": "f8b5"
+    },
+    {
+      "title": "GitHub",
+      "slug": "github",
+      "amountOfVideos": 198,
+      "id": "04d9"
+    },
+    {
+      "title": "Bitbucket",
+      "slug": "bitbucket",
+      "amountOfVideos": 82,
+      "id": "47d3"
+    },
+    {
+      "title": "Agile",
+      "slug": "agile",
+      "amountOfVideos": 149,
+      "id": "c8ef"
+    },
+    {
+      "title": "Scrum",
+      "slug": "scrum",
+      "amountOfVideos": 104,
+      "id": "77ea"
+    },
+    {
+      "title": "Kanban",
+      "slug": "kanban",
+      "amountOfVideos": 87,
+      "id": "f7ec"
+    },
+    {
+      "title": "Product Management",
+      "slug": "product-management",
+      "amountOfVideos": 156,
+      "id": "6e7e"
+    },
+    {
+      "title": "UI-UX Design",
+      "slug": "ui-ux-design",
+      "amountOfVideos": 175,
+      "id": "59af"
+    },
+    {
+      "title": "Graphic Design",
+      "slug": "graphic-design",
+      "amountOfVideos": 132,
+      "id": "bbc5"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "slug": "adobe-photoshop",
+      "amountOfVideos": 87,
+      "id": "d468"
+    },
+    {
+      "title": "Adobe Illustrator",
+      "slug": "adobe-illustrator",
+      "amountOfVideos": 92,
+      "id": "a1c6"
+    },
+    {
+      "title": "Figma",
+      "slug": "figma",
+      "amountOfVideos": 109,
+      "id": "deae"
+    },
+    {
+      "title": "Sketch",
+      "slug": "sketch",
+      "amountOfVideos": 95,
+      "id": "d525"
+    },
+    {
+      "title": "Wireframing",
+      "slug": "wireframing",
+      "amountOfVideos": 73,
+      "id": "2c0e"
+    },
+    {
+      "title": "Prototyping",
+      "slug": "prototyping",
+      "amountOfVideos": 82,
+      "id": "f51a"
+    },
+    {
+      "title": "User Testing",
+      "slug": "user-testing",
+      "amountOfVideos": 69,
+      "id": "2cbe"
+    },
+    {
+      "title": "UX Research",
+      "slug": "ux-research",
+      "amountOfVideos": 114,
+      "id": "1de4"
+    },
+    {
+      "title": "Typography",
+      "slug": "typography",
+      "amountOfVideos": 68,
+      "id": "264f"
+    },
+    {
+      "title": "Color Theory",
+      "slug": "color-theory",
+      "amountOfVideos": 56,
+      "id": "2d8c"
+    },
+    {
+      "title": "Web Design",
+      "slug": "web-design",
+      "amountOfVideos": 213,
+      "id": "0bcb"
+    },
+    {
+      "title": "Mobile App Design",
+      "slug": "mobile-app-design",
+      "amountOfVideos": 157,
+      "id": "6c85"
+    },
+    {
+      "title": "Responsive Design",
+      "slug": "responsive-design",
+      "amountOfVideos": 132,
+      "id": "291a"
+    },
+    {
+      "title": "Design Thinking",
+      "slug": "design-thinking",
+      "amountOfVideos": 98,
+      "id": "5ba0"
+    },
+    {
+      "title": "UI Patterns",
+      "slug": "ui-patterns",
+      "amountOfVideos": 71,
+      "id": "71aa"
+    },
+    {
+      "title": "Interaction Design",
+      "slug": "interaction-design",
+      "amountOfVideos": 124,
+      "id": "b88b"
+    },
+    {
+      "title": "Motion Design",
+      "slug": "motion-design",
+      "amountOfVideos": 86,
+      "id": "34a9"
+    },
+    {
+      "title": "Game Design",
+      "slug": "game-design",
+      "amountOfVideos": 143,
+      "id": "880d"
+    },
+    {
+      "title": "VR Design",
+      "slug": "vr-design",
+      "amountOfVideos": 79,
+      "id": "e623"
+    },
+    {
+      "title": "AR Design",
+      "slug": "ar-design",
+      "amountOfVideos": 62,
+      "id": "fd2a"
+    },
+    {
+      "title": "Design Systems",
+      "slug": "design-systems",
+      "amountOfVideos": 109,
+      "id": "86ab"
+    },
+    {
+      "title": "Illustration",
+      "slug": "illustration",
+      "amountOfVideos": 137,
+      "id": "0130"
+    },
+    {
+      "title": "Character Design",
+      "slug": "character-design",
+      "amountOfVideos": 95,
+      "id": "5e9c"
+    },
+    {
+      "title": "Digital Painting",
+      "slug": "digital-painting",
+      "amountOfVideos": 73,
+      "id": "561b"
+    },
+    {
+      "title": "Storyboarding",
+      "slug": "storyboarding",
+      "amountOfVideos": 62,
+      "id": "96a6"
+    },
+    {
+      "title": "Comic Art",
+      "slug": "comic-art",
+      "amountOfVideos": 68,
+      "id": "d190"
+    },
+    {
+      "title": "Concept Art",
+      "slug": "concept-art",
+      "amountOfVideos": 77,
+      "id": "4f23"
+    },
+    {
+      "title": "Pixel Art",
+      "slug": "pixel-art",
+      "amountOfVideos": 53,
+      "id": "6318"
+    },
+    {
+      "title": "3D Modeling",
+      "slug": "3d-modeling",
+      "amountOfVideos": 123,
+      "id": "392c"
+    },
+    {
+      "title": "Texturing",
+      "slug": "texturing",
+      "amountOfVideos": 88,
+      "id": "6341"
+    },
+    {
+      "title": "Rigging",
+      "slug": "rigging",
+      "amountOfVideos": 65,
+      "id": "1578"
+    },
+    {
+      "title": "Animation",
+      "slug": "animation",
+      "amountOfVideos": 135,
+      "id": "b6d9"
+    },
+    {
+      "title": "VFX",
+      "slug": "vfx",
+      "amountOfVideos": 94,
+      "id": "0d61"
+    },
+    {
+      "title": "Game Art",
+      "slug": "game-art",
+      "amountOfVideos": 108,
+      "id": "cb92"
+    },
+    {
+      "title": "Motion Graphics",
+      "slug": "motion-graphics",
+      "amountOfVideos": 112,
+      "id": "682e"
+    },
+    {
+      "title": "Typography",
+      "slug": "typography",
+      "amountOfVideos": 84,
+      "id": "ccd5"
+    },
+    {
+      "title": "Layout Design",
+      "slug": "layout-design",
+      "amountOfVideos": 73,
+      "id": "356f"
+    },
+    {
+      "title": "Publication Design",
+      "slug": "publication-design",
+      "amountOfVideos": 61,
+      "id": "30b6"
+    },
+    {
+      "title": "Packaging Design",
+      "slug": "packaging-design",
+      "amountOfVideos": 66,
+      "id": "ef1f"
+    },
+    {
+      "title": "Logo Design",
+      "slug": "logo-design",
+      "amountOfVideos": 97,
+      "id": "e23b"
+    },
+    {
+      "title": "Branding",
+      "slug": "branding",
+      "amountOfVideos": 112,
+      "id": "15c5"
+    },
+    {
+      "title": "Corporate Identity",
+      "slug": "corporate-identity",
+      "amountOfVideos": 75,
+      "id": "a5f7"
+    },
+    {
+      "title": "Print Design",
+      "slug": "print-design",
+      "amountOfVideos": 83,
+      "id": "b8cd"
+    },
+    {
+      "title": "Digital Design",
+      "slug": "digital-design",
+      "amountOfVideos": 94,
+      "id": "29c6"
+    },
+    {
+      "title": "User Interface Design",
+      "slug": "user-interface-design",
+      "amountOfVideos": 123,
+      "id": "66a4"
+    },
+    {
+      "title": "User Experience Design",
+      "slug": "user-experience-design",
+      "amountOfVideos": 144,
+      "id": "54cf"
+    },
+    {
+      "title": "Service Design",
+      "slug": "service-design",
+      "amountOfVideos": 79,
+      "id": "ecf6"
+    },
+    {
+      "title": "Design Research",
+      "slug": "design-research",
+      "amountOfVideos": 64,
+      "id": "fe04"
+    },
+    {
+      "title": "Design Strategy",
+      "slug": "design-strategy",
+      "amountOfVideos": 72,
+      "id": "22b4"
+    },
+    {
+      "title": "Design Leadership",
+      "slug": "design-leadership",
+      "amountOfVideos": 63,
+      "id": "6825"
+    },
+    {
+      "title": "Design Management",
+      "slug": "design-management",
+      "amountOfVideos": 68,
+      "id": "f22b"
+    },
+    {
+      "title": "Design Ethics",
+      "slug": "design-ethics",
+      "amountOfVideos": 57,
+      "id": "07a8"
+    },
+    {
+      "title": "Human-Centered Design",
+      "slug": "human-centered-design",
+      "amountOfVideos": 93,
+      "id": "ae2b"
+    },
+    {
+      "title": "Inclusive Design",
+      "slug": "inclusive-design",
+      "amountOfVideos": 66,
+      "id": "20ab"
+    },
+    {
+      "title": "Design Tools",
+      "slug": "design-tools",
+      "amountOfVideos": 78,
+      "id": "b2e0"
+    },
+    {
+      "title": "Design Workflow",
+      "slug": "design-workflow",
+      "amountOfVideos": 82,
+      "id": "cb93"
+    },
+    {
+      "title": "Design Collaboration",
+      "slug": "design-collaboration",
+      "amountOfVideos": 68,
+      "id": "ee40"
+    },
+    {
+      "title": "Design Thinking",
+      "slug": "design-thinking",
+      "amountOfVideos": 76,
+      "id": "3acb"
+    },
+    {
+      "title": "Design Systems",
+      "slug": "design-systems",
+      "amountOfVideos": 85,
+      "id": "d08a"
+    },
+    {
+      "title": "Design Critique",
+      "slug": "design-critique",
+      "amountOfVideos": 53,
+      "id": "a140"
+    },
+    {
+      "title": "Design Education",
+      "slug": "design-education",
+      "amountOfVideos": 66,
+      "id": "e10b"
+    },
+    {
+      "title": "Design Career",
+      "slug": "design-career",
+      "amountOfVideos": 78,
+      "id": "cb1e"
+    },
+    {
+      "title": "Design Portfolio",
+      "slug": "design-portfolio",
+      "amountOfVideos": 64,
+      "id": "67e4"
+    },
+    {
+      "title": "Design Community",
+      "slug": "design-community",
+      "amountOfVideos": 79,
+      "id": "66b6"
+    },
+    {
+      "title": "Design Trends",
+      "slug": "design-trends",
+      "amountOfVideos": 72,
+      "id": "a240"
+    },
+    {
+      "title": "Design Events",
+      "slug": "design-events",
+      "amountOfVideos": 58,
+      "id": "a108"
+    },
+    {
+      "title": "Design News",
+      "slug": "design-news",
+      "amountOfVideos": 63,
+      "id": "a4cf"
+    },
+    {
+      "title": "Design Podcasts",
+      "slug": "design-podcasts",
+      "amountOfVideos": 54,
+      "id": "85d8"
+    },
+    {
+      "title": "Design Blogs",
+      "slug": "design-blogs",
+      "amountOfVideos": 49,
+      "id": "3744"
+    },
+    {
+      "title": "Design Books",
+      "slug": "design-books",
+      "amountOfVideos": 62,
+      "id": "ff56"
+    },
+    {
+      "title": "Design Magazines",
+      "slug": "design-magazines",
+      "amountOfVideos": 51,
+      "id": "6481"
+    },
+    {
+      "title": "Design Websites",
+      "slug": "design-websites",
+      "amountOfVideos": 46,
+      "id": "a509"
+    },
+    {
+      "title": "Design Resources",
+      "slug": "design-resources",
+      "amountOfVideos": 57,
+      "id": "376c"
+    },
+    {
+      "title": "Design Quotes",
+      "slug": "design-quotes",
+      "amountOfVideos": 45,
+      "id": "25e3"
+    },
+    {
+      "title": "Design Tools",
+      "slug": "design-tools",
+      "amountOfVideos": 59,
+      "id": "7627"
+    },
+    {
+      "title": "Design Software",
+      "slug": "design-software",
+      "amountOfVideos": 68,
+      "id": "4dc5"
+    },
+    {
+      "title": "Design Kits",
+      "slug": "design-kits",
+      "amountOfVideos": 54,
+      "id": "643f"
+    },
+    {
+      "title": "Design Templates",
+      "slug": "design-templates",
+      "amountOfVideos": 63,
+      "id": "7d6b"
+    },
+    {
+      "title": "Design Assets",
+      "slug": "design-assets",
+      "amountOfVideos": 58,
+      "id": "ca1c"
+    },
+    {
+      "title": "Design Icons",
+      "slug": "design-icons",
+      "amountOfVideos": 49,
+      "id": "b42d"
+    },
+    {
+      "title": "Design Fonts",
+      "slug": "design-fonts",
+      "amountOfVideos": 53,
+      "id": "266d"
+    },
+    {
+      "title": "Design Illustrations",
+      "slug": "design-illustrations",
+      "amountOfVideos": 61,
+      "id": "6b0d"
+    },
+    {
+      "title": "Design Mockups",
+      "slug": "design-mockups",
+      "amountOfVideos": 56,
+      "id": "b24f"
+    },
+    {
+      "title": "Design Patterns",
+      "slug": "design-patterns",
+      "amountOfVideos": 47,
+      "id": "476f"
+    },
+    {
+      "title": "Design Tutorials",
+      "slug": "design-tutorials",
+      "amountOfVideos": 55,
+      "id": "bd70"
+    },
+    {
+      "title": "Design Courses",
+      "slug": "design-courses",
+      "amountOfVideos": 59,
+      "id": "7d72"
+    },
+    {
+      "title": "Design Certifications",
+      "slug": "design-certifications",
+      "amountOfVideos": 51,
+      "id": "99bd"
+    },
+    {
+      "title": "Design Degrees",
+      "slug": "design-degrees",
+      "amountOfVideos": 47,
+      "id": "1b34"
+    },
+    {
+      "title": "Design Bootcamps",
+      "slug": "design-bootcamps",
+      "amountOfVideos": 53,
+      "id": "da7e"
+    },
+    {
+      "title": "Design Schools",
+      "slug": "design-schools",
+      "amountOfVideos": 45,
+      "id": "c7e2"
+    },
+    {
+      "title": "Design Workshops",
+      "slug": "design-workshops",
+      "amountOfVideos": 50,
+      "id": "bef8"
+    },
+    {
+      "title": "Design Conferences",
+      "slug": "design-conferences",
+      "amountOfVideos": 58,
+      "id": "5d24"
+    },
+    {
+      "title": "Design Events",
+      "slug": "design-events",
+      "amountOfVideos": 54,
+      "id": "e52f"
+    },
+    {
+      "title": "Design Exhibitions",
+      "slug": "design-exhibitions",
+      "amountOfVideos": 46,
+      "id": "8c97"
+    },
+    {
+      "title": "Design Competitions",
+      "slug": "design-competitions",
+      "amountOfVideos": 52,
+      "id": "3210"
+    },
+    {
+      "title": "Design Awards",
+      "slug": "design-awards",
+      "amountOfVideos": 48,
+      "id": "4f44"
+    },
+    {
+      "title": "Design Festivals",
+      "slug": "design-festivals",
+      "amountOfVideos": 49,
+      "id": "9fb8"
+    },
+    {
+      "title": "Design Hackathons",
+      "slug": "design-hackathons",
+      "amountOfVideos": 45,
+      "id": "bd9c"
+    },
+    {
+      "title": "Design Meetups",
+      "slug": "design-meetups",
+      "amountOfVideos": 51,
+      "id": "0582"
+    },
+    {
+      "title": "Design Retreats",
+      "slug": "design-retreats",
+      "amountOfVideos": 47,
+      "id": "3128"
+    },
+    {
+      "title": "Flask",
+      "slug": "flask",
+      "amountOfVideos": 87,
+      "id": "49e4"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "ruby-on-rails",
+      "amountOfVideos": 116,
+      "id": "123d"
+    },
+    {
+      "id": "26c1",
+      "title": "useMutation",
+      "slug": "usemutation",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "8400",
+      "title": "queryClient",
+      "slug": "queryclient",
+      "amountOfVideos": 0
+    }
+  ]
 }
